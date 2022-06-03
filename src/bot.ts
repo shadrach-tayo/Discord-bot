@@ -41,7 +41,7 @@ export class Bot {
   }
   
   onReady() {
-    console.log(`LoggedIn.........`)
+    console.log(`BIG TAY is running 🚀🚀🚀`)
   }
 
   onEmojiCreate(emoji: GuildEmoji) {
